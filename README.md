@@ -12,7 +12,10 @@ This project is a **Streamlit-based web application** that provides an interacti
 ## 🛠️ Tech Stack
 - **Programming Language:** Python
 - **Libraries:** Streamlit, Pandas, GeoPandas, Folium, Streamlit-Folium
-- **Data Source:** Chicago Data Portal ([Crimes 2001-Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2))
+
+## 📊 Dataset
+The dataset used for this project is available on Chicago City's Website:
+Chicago Data Portal ([Crimes 2001-Present](https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2))
 
 ## 📂 File Structure
 ```
