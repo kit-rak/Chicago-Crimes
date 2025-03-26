@@ -28,7 +28,7 @@ Chicago Data Portal ([Crimes 2001-Present](https://data.cityofchicago.org/Public
 ## ⚡ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/chicago-crime-analysis.git
+git clone https://github.com/kit-rak/Chicago-Crimes.git
 cd chicago-crime-analysis
 ```
 
